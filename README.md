@@ -13,6 +13,7 @@ Implement a singly linked list:
 - Your linked list must have a node inner class to represent each element
 - Your linked list must have add, remove, contains, find, size, get, copy and sort methods
 - Method definitions:
+
 	- add -- add an element to the list
 	- remove -- remove an element (specified by numeric index) from the list
 	- contains -- returns true if the element is in the list, false otherwise
